@@ -6,3 +6,5 @@ python-dotenv==1.0.0
 tqdm==4.66.1
 ipython==8.15.0
 jupyter==1.0.0
+scikit-learn==1.5.2
+mpl-tools==0.4.0
