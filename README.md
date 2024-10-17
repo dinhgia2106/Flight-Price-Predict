@@ -1,4 +1,4 @@
-# Dự án dực đoán giá vé máy bay
+# Dự án dự đoán giá vé máy bay
 
 ## Tổng quan
 
