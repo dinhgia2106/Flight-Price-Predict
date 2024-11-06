@@ -8,3 +8,4 @@ ipython==8.15.0
 jupyter==1.0.0
 scikit-learn==1.5.2
 mpl-tools==0.4.0
+seaborn==0.12.2
